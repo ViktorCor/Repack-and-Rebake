@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "repack_rebake"
+version = "1.5.3"
+name = "Atlas Repacker & Multi-Map Rebake"
+tagline = "UV repack and multi-map baking with glTF support"
+maintainer = "Viktor Kom <viktorcor@gmail.com>"
+type = "add-on"
+
+tags = ["UV", "Baking", "Texturing"]
+
+blender_version_min = "4.0.0"
+
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
+
+website = "https://github.com/ViktorCor"
+
